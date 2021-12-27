@@ -23,7 +23,7 @@ Bước 4: Tạo một cơ sở dữ liệu mới tên là "thu". Rồi vào ph�
 ![image](https://user-images.githubusercontent.com/93861138/147481096-55c6e0f2-22b7-4691-bbef-c82457d104b4.png)
 
 
-Bước 5: Mở file ứng dụng và mở file dist/Quanly.jar để mở ứng dụng.(Username và Passwork mặc định là Admin/123456. Bạn có thể thêm mới hoặc thay đổi trong bảng userss trong cơ sở dữ liệu Mysql.)
+Bước 5: Mở file ứng dụng và mở file dist/Quanly.jar để mở ứng dụng.(Username và Password mặc định là Admin/123456. Bạn có thể thêm mới hoặc thay đổi trong bảng userss trong cơ sở dữ liệu Mysql.)
 
 ![image](https://user-images.githubusercontent.com/93861138/147481788-8b339d5d-a78c-4f45-b2de-fe22c2f55e5b.png)
 ![image](https://user-images.githubusercontent.com/93861138/147481557-6bca6320-da52-474e-b80b-e5a971f2b4a3.png)
